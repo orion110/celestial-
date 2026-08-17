@@ -16,8 +16,13 @@ No server or installation required — everything runs client-side.
 # Features
 
 Piano roll sequencer
+
 Synth (4 waveforms, filter, ADSR, detune/glide) or sample playback
+
 16-pad drum machine
+
 Music upload for playback
-Optional local Ollama panel (chat / generate notes from text)
+
+Optional local Ollama panel 
+
 Light/dark theme
