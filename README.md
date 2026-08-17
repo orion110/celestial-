@@ -26,3 +26,5 @@ Music upload for playback
 Optional local Ollama panel 
 
 Light/dark theme
+
+[![Untitled.png](https://i.postimg.cc/YS90jqJ3/Untitled.png)](https://postimg.cc/k20qp9M6)
